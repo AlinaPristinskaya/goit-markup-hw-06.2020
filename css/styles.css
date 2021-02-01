@@ -374,6 +374,9 @@ ul.section-discription {
 .img {
   display: block;
 }
+.contboot{
+  margin-bottom: 50px;
+}
 
 .section-discription.flex .img {
   margin-right: 30px;
